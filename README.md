@@ -4,12 +4,19 @@ Warm Up problems:
 
 to recommend the following ones:
 --Top Movie By Genre
+
 --Most Active User
+
 --Top Movie By Year
+
 -- Most watched Movie
+
 -- Most watched Genre
+
 -- Top Movie By Year & Genre
+
 --Highest rated Genre
+
 
 recommendation problem
 
